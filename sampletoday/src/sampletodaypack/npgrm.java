@@ -6,7 +6,8 @@ public class npgrm {
 		// TODO Auto-generated method stub
 System.out.println("welcome");
 System.out.println("new program");	
-}System.out.println("demo program");
+System.out.println("demo program");
+	}
 
 
 }
