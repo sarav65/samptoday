@@ -7,6 +7,7 @@ public class npgrm {
 System.out.println("welcome");
 System.out.println("new program");	
 System.out.println("demo program new");
+System.out.println("just print statement");
 	}
 
 
